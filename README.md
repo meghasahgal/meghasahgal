@@ -1,7 +1,6 @@
 ### Hi there 👋
--I'm a Software Engineer, Product Designer and Finance Nerd!
--I love building products that have an element of social impact and contribute to the well being of community. I'm well versed in JavaScript, React, Redux, CSS, HMTL, Python, SQL, SQLAlchemy, Express and Sequelize.
--Pronouns: She/Her
+-I'm a Software Engineer, Product Designer and Finance Nerd! I love building products that have an element of social impact and contribute to the well being of community. I'm well versed in JavaScript, React, Redux, CSS, HMTL, Python, SQL, SQLAlchemy, Express and Sequelize.
+
 -How to reach me: meghas@gmail.com
 
 <!--
