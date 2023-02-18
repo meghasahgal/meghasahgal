@@ -1,7 +1,7 @@
 ### Hi there 👋
--I'm a Software Engineer, Product Designer and Finance Nerd! I love building products that have an element of social impact and contribute to the well being of community. I'm well versed in JavaScript, React, Redux, CSS, HMTL, Python, SQL, SQLAlchemy, Express and Sequelize.
+I'm a Software Engineer, Product Designer and Finance Nerd! I love building products that have an element of social impact and contribute to the well being of community. I'm well versed in JavaScript, React, Redux, CSS, HMTL, Python, SQL, SQLAlchemy, Express and Sequelize.  Let's build together!
 
--How to reach me: meghas@gmail.com
+How to reach me: meghas@gmail.com
 
 <!--
 **meghasahgal/meghasahgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
